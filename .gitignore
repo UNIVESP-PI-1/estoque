@@ -1,0 +1,17 @@
+# Ambientes virtuais
+venv/
+env/
+.env/
+ENV/
+bin/
+lib/
+
+# Banco de dados local (SQLite)
+*.sqlite3
+
+# Coleta de arquivos estáticos
+staticfiles/
+media/
+
+# Logs do servidor
+*.log
